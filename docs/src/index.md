@@ -85,9 +85,9 @@ If you found the software useful and applied it to your own research, we'd appre
 Add the following to your BibTeX file
 
 ```tex
-@misc{Muehlpfordt18,
-  author       = {T. Mühlpfordt and F. Zahn and F. Becker and T. Faulwasser and V. Hagenmeyer},
-  title        = {PolyChaos.jl -- A Julia package for orthogonal polynomials, quadrature, and polynomial chaos expansion},
+@misc{Muehlpfordt19,
+  author       = {T. M{\"u}hlpfordt and F. Zahn and F. Becker and T. Faulwasser and V. Hagenmeyer},
+  title        = {{PolyChaos.jl} -- A Julia package for orthogonal polynomials, quadrature, and polynomial chaos expansion},
   year         = 2019,
   doi          = {10.5281/zenodo.2592031},
   url          = {https://doi.org/10.5281/zenodo.2592031}
